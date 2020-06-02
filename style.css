@@ -1,0 +1,66 @@
+body{
+ 	background-color: transparent;
+}
+html {
+    background: url('images/фон.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.stas{
+  	text-decoration: none;
+  	font-family: "Monotype Corsiva", cursive;
+ 	color: #8A2BE2;
+ 	font-size: 24px;
+}
+.liner{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1.5px solid #050505;
+    width: 70%;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 22px;
+    color: #ec7ba0d9;
+    font-family: none;
+}
+.card-custom{
+	height: 200px;
+	background-size: cover;
+}
+.button_custom_add{
+        border-radius: 5px;
+    background: #ef88a9;
+    border: none;
+    margin-top: 14px;
+    width: 120px;
+    padding: 1px 0px 5px 0px;
+    font-weight: bold;
+    color: #3f3f3f;
+    float: left;
+}
+.price{
+    font-family: "Monotype Corsiva", cursive;
+    color: #9754e4;
+    font-size: 28px;
+    text-align: right;
+    margin-top: 7px;
+    font-weight: bold;
+}
+.nav-item span{
+    background-color: #e05555;
+    text-align: center;
+    color: #ececec;
+    width: 20px;
+    display: block;
+    float: right;
+    font-size: 17px;
+    margin-left: 5px;
+    border-radius: 50%;
+    height: 20px;
+    padding: 0px 3px 0px 0px;
+    margin-top: 8px;
+}
